@@ -1,3 +1,5 @@
 .allure/
 .idea/
 target/
+/logs/browserstack-javaagent.log
+/SecondClone.iml
