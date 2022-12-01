@@ -9,7 +9,7 @@ public class Hooks {
     static WebDriver driver;
 
     public static void beforeScope() {
-        System.setProperty("webdriver.chrome.driver", "/driver/chromedriver.exe"); //Located in C:
+        System.setProperty("webdriver.chrome.driver", "/Users/Rajeshwaran_Sarangarajan/Downloads/chromedriver"); //Located in C:
         driver = new ChromeDriver();
     }
 

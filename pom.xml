@@ -22,7 +22,7 @@
         <maven.cucumber.reporting.version>3.12.0</maven.cucumber.reporting.version>
         <exec.maven.plugin.version>1.6.0</exec.maven.plugin.version>
         <maven.failsafe.version>3.0.0-M3</maven.failsafe.version>
-        <org.projectlombok.version>1.18.12</org.projectlombok.version>
+        <org.projectlombok.version>1.18.22</org.projectlombok.version>
         <maven.failsafe.includes>null</maven.failsafe.includes>
         <maven.failsafe.includes.rerun>null</maven.failsafe.includes.rerun>
         <maven.failsafe.thread.count>5</maven.failsafe.thread.count>
@@ -168,7 +168,7 @@
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
-            <version>4.2.0</version>
+            <version>4.3.3</version>
         </dependency>
 
         <dependency>
